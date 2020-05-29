@@ -1,6 +1,6 @@
 # IrisModel
 
-<img src="">
+<img src="https://github.com/Ankit152/IrisModel/blob/master/images/iris.png">
 
 **Abstract:** Famous database from Fisher, 1936
 

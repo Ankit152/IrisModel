@@ -1,4 +1,4 @@
-# IrisModel
+# Iris Data Set
 
 <img src="https://github.com/Ankit152/IrisModel/blob/master/images/iris.png">
 

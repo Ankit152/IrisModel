@@ -1,4 +1,6 @@
-# Iris Data Set
+<p align="center">
+   <h1>Iris Dataset. The hello world in Machine Learning</h1>
+</p>
 <p align="center">
    <img src="https://github.com/Ankit152/IrisModel/blob/master/images/iris.png" width="326" height="300">
 </p>

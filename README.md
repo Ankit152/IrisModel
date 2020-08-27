@@ -1,6 +1,4 @@
-<p align="center">
-   <h1>Iris Dataset. The hello world in Machine Learning</h1>
-</p>
+<h1 style="text-align:center;">Iris Dataset. The Hello World in Machine Learning!!!</h1>
 <p align="center">
    <img src="https://github.com/Ankit152/IrisModel/blob/master/images/iris.png" width="326" height="300">
 </p>

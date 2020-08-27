@@ -1,6 +1,7 @@
 # Iris Data Set
-
-<img src="https://github.com/Ankit152/IrisModel/blob/master/images/iris.png">
+<p align="center">
+   <img src="https://github.com/Ankit152/IrisModel/blob/master/images/iris.png" width="326" height="300">
+</p>
 
 **Abstract:** Famous database from Fisher, 1936
 
